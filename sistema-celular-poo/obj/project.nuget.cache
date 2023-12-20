@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2BE8MtFRxvkoN/gwfBjSBO0UCQ3n3BUKtlCMlsJp8LGyJS151w1ubynw3YxNoidtJbXbh8D1zeGcP2sFwA6sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luigi\\OneDrive\\Área de Trabalho\\DECOLA TECH\\csharp-sistema-celular-poo\\sistema-celular-poo\\sistema-celular-poo\\sistema-celular-poo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luigi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luigi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luigi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\luigi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
